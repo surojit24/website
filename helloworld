@@ -1,2 +1,5 @@
 hello -- code written by dev1
-devops -- new code added by dev1
+<<<<<<< HEAD
+=
+world -- code written by dev2
+>>>>>>> 71755d6b2ff699ec55b6ed2c372ddbb8b7c610e9
