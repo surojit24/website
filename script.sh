@@ -1,2 +1,2 @@
 echo "devops CI"
-cal 2023
+cal 2024
